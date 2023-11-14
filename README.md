@@ -37,3 +37,5 @@
 ## Klimawandel
 - How to salvage CO2
 - Complexity, Pattern Formation, Complex Systems, (Brian Goodwin?)
+- Prigogin: Local islands of coherence can build a new attractor in a chaotic system
+- 
