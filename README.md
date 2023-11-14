@@ -21,6 +21,10 @@
 - Speiseöl --> Biodiesel
 - Fusionskraftwerke, Atomkraftwerke, nachhaltige Lösungen (Vergleich des Energiepotentials)
 
+## Batterien
+- [Recharable Oxide Ion batteries](https://onlinelibrary.wiley.com/doi/10.1002/aenm.202203789)
+- [NASA Batterien](https://www.youtube.com/watch?v=tOcoGNZaUAM)
+
 ## Materialien
 - Carbon Nano Tubes
 
