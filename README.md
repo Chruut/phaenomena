@@ -20,3 +20,5 @@
 ## Materialien
 - Carbon Nano Tubes
 
+## Tech
+- Kommunikation mit Pilzen
