@@ -5,7 +5,7 @@
 ### Bau
 - 3D-Druck Häuser
 - Nachhaltige Baumaterialien
-- Energieversorgung Wohnen (Bioreaktoren, Wärmezirkulation, Künstliche Photosynthese
+- Energieversorgung Wohnen (Bioreaktoren, Wärmezirkulation, 
 
 ## Plastik
 - Abbau von Plastik (Enzyme, Organismen)
@@ -13,6 +13,8 @@
 
 
 ## Energie
+- Wasserstoff ([Lagerung](https://www.sciencedaily.com/releases/2020/11/201118141718.htm), etc) (Wasserstoff Vorlesung) 
+- Künstliche Photosynthese [1](https://www.reddit.com/r/science/comments/mnf1w5/scientists_have_now_demonstrated_a_new_type_of/) [2](https://www.reddit.com/r/science/comments/71b1y9/solartofuel_system_recycles_co2_to_make_ethanol/)
 - Holz --> Alkohol
 - Algen --> H2, Biodiesel
 - [Algenbatterie](https://youtu.be/JGWbVENukKc?si=Od_17pCPKXCvwyKJ)
@@ -24,3 +26,6 @@
 
 ## Tech
 - Kommunikation mit Pilzen
+
+
+##  Ressourcen
