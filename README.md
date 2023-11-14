@@ -15,7 +15,7 @@
 ## Energie
 - Holz --> Alkohol
 - Algen --> H2, Biodiesel
-- (Algenbatterie)[https://youtu.be/JGWbVENukKc?si=Od_17pCPKXCvwyKJ]
+- [Algenbatterie](https://youtu.be/JGWbVENukKc?si=Od_17pCPKXCvwyKJ)
 - Speiseöl --> Biodiesel
 - Fusionskraftwerke, Atomkraftwerke, nachhaltige Lösungen (Vergleich des Energiepotentials)
 
