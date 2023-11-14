@@ -36,4 +36,4 @@
 
 ## Klimawandel
 - How to salvage CO2
-- Complexity, Pattern Formation, Complex Systems
+- Complexity, Pattern Formation, Complex Systems, (Brian Goodwin?)
