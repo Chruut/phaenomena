@@ -14,7 +14,8 @@
 
 ## Energie
 - Holz --> Alkohol
-- Biodiesel aus Speiseöl
+- Algen --> H2, Biodiesel
+- Speiseöl --> Biodiesel
 - Fusionskraftwerke, Atomkraftwerke, nachhaltige Lösungen (Vergleich des Energiepotentials)
 
 ## Materialien
