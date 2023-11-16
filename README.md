@@ -7,12 +7,12 @@
 - Nachhaltige Baumaterialien
 - Energieversorgung Wohnen (Bioreaktoren, Wärmezirkulation, 
 
-## Plastik
+### Plastik
 - Abbau von Plastik (Enzyme, Organismen)
 - Rezyklierung (PET-Extruder Filament)
 
 
-## Energie
+### Energie
 - Wasserstoff ([Lagerung](https://www.sciencedaily.com/releases/2020/11/201118141718.htm), etc) (Wasserstoff Vorlesung) 
 - Künstliche Photosynthese [1](https://www.reddit.com/r/science/comments/mnf1w5/scientists_have_now_demonstrated_a_new_type_of/) [2](https://www.reddit.com/r/science/comments/71b1y9/solartofuel_system_recycles_co2_to_make_ethanol/)
 - Holz --> Alkohol
@@ -21,21 +21,34 @@
 - Speiseöl --> Biodiesel
 - Fusionskraftwerke, Atomkraftwerke, nachhaltige Lösungen (Vergleich des Energiepotentials)
 
-## Batterien
+### Batterien
 - [Recharable Oxide Ion batteries](https://onlinelibrary.wiley.com/doi/10.1002/aenm.202203789)
 - [NASA Batterien](https://www.youtube.com/watch?v=tOcoGNZaUAM)
 
-## Materialien
+### Materialien
 - Carbon Nano Tubes
 
-## Tech
+### Tech
 - Kommunikation mit Pilzen
 
 
-##  Ressourcen
+###  Ressourcen
 
-## Klimawandel
+### Klimawandel
 - How to salvage CO2
 - Complexity, Pattern Formation, Complex Systems, (Brian Goodwin?)
 - Prigogin: Local islands of coherence can build a new attractor in a chaotic system
 - 
+
+
+### One Health
+- Meditation, EEG
+- Psilocybin?
+
+## Physik
+- Schwingungen (Wasser, Chladny, etc)
+
+## Mathe
+- Eintauchen ins Fraktal
+- Bloom (3D-Druck)
+- Michael Hansmeyer 
