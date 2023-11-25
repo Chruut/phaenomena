@@ -25,6 +25,7 @@
 - [Recharable Oxide Ion batteries](https://onlinelibrary.wiley.com/doi/10.1002/aenm.202203789)
 - [NASA Batterien](https://www.youtube.com/watch?v=tOcoGNZaUAM)
 - [Lithium-Sulfur Batteries](https://www.youtube.com/watch?v=oEuqQ_O_6YM)
+- [Ultra Dense](https://www.youtube.com/watch?v=YJ4pg_exdvs)
 
 ### Materialien
 - Carbon Nano Tubes
